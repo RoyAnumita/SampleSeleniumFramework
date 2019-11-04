@@ -1,7 +1,7 @@
 /.git/
 /.metadata/
 /RemoteSystemsTempFiles/
-/Repo/.settings/
+/Repo/.settings
 /Repo/target/
-/Repo/.classpath/
-/Repo/.project/
+/Repo/.classpath
+/Repo/.project
