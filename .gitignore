@@ -3,6 +3,6 @@
 /RemoteSystemsTempFiles/
 /Repo/.settings
 /Repo/target/
-/Repo/.classpath
-/Repo/.project
-*.html
+/.classpath
+/.project
+/Repo/Reports/*.html
