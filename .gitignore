@@ -3,5 +3,5 @@
 /RemoteSystemsTempFiles/
 /Repo/.settings
 /Repo/target/
-*.classpath
-*.project
+/Repo/.classpath
+/Repo/.project
