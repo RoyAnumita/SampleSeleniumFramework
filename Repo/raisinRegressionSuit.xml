@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RasinRegressionSuite" parallel="none">
+  <test name="RasinRegressionTestCases">
+    <classes>
+      <class name="testcases.TC00_VerifyHomePage"/>
+      <class name="testcases.TC01_VerifyEasyAccessFunctionalityInOurOfferPage"/>
+      <class name="testcases.TC02_FindTheOfferWithTheHighestInterestRateAndClickRegister"/>
+      <class name="testcases.TC03_VerifyInvestNowButtonIsRedirectingToTheRegisterForm"/>
+    </classes>
+  </test> <!-- RegressionTest -->
+</suite> <!-- RegressionSuite -->
